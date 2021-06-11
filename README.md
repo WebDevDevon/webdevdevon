@@ -1,6 +1,6 @@
 
 ![](https://i.imgur.com/oxsTKL4.png)
-### Hi there 👋, My name is Devon
+### Hi there 👋, My name is Devon Batemon
 I am an aspiring Front-End web developer based in California. I currently know / still learning both Front-end development and Back-end development. My field of knowledge at the moment lie in HTML, CSS, Javascript, Node.Js, MongoDB, and React. I hope to help bring creative projects to life and demonstrate my commitment to developing world-class websites for your company.
 
 ## My Skill Set  
