@@ -6,7 +6,7 @@ I am a aspiring Front-end web developer based in California. I currently know / 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
  
-### Frontend  
+### Front-end  
  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -18,7 +18,7 @@ I am a aspiring Front-end web developer based in California. I currently know / 
 </div>
 </td><td valign="top" width="33%">
  
-### Backend  
+### Back-end  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
