@@ -80,7 +80,7 @@ I am a Full Stack Developer based in California. My field of knowledge at the mo
       </div>
   </div>
 
-## Connect with me  
+## Connect 
 <div align="center">
 <a href="https://www.linkedin.com/in/devon-batemon-1a566b112/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
