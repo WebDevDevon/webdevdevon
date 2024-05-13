@@ -85,10 +85,10 @@ I am a Full Stack Developer based in California. My field of knowledge at the mo
 <a href="https://www.linkedin.com/in/devon-batemon-1a566b112/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://codepen.com/twitchzunomic" target="_blank">
+<a href="" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
-<a href="" target="_blank">
+<a href="https://twitter.com/BatemonDevon" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter />
 </a>
 </div>  
