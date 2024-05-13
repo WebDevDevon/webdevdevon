@@ -1,7 +1,7 @@
 
 ![](https://i.imgur.com/oxsTKL4.png)
 ### Hi there 👋, My name is Devon Batemon
-I am a Full Stack Developer based in California. My field of knowledge at the moment lie in HTML, CSS, Javascript, React, Express, Node.Js, and MongoDB. I hope to help bring creative projects to life and demonstrate my commitment to developing world-class websites for companies.
+I am a Full Stack Developer based in California. My field of knowledge at the moment lie in Javascript, React, Express, Node.Js, and MongoDB. I hope to help bring creative projects to life and demonstrate my commitment to developing world-class websites for companies.
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -80,7 +80,7 @@ I am a Full Stack Developer based in California. My field of knowledge at the mo
       </div>
   </div>
 
-## Connect with me  
+## Connect 
 <div align="center">
 <a href="https://www.linkedin.com/in/devon-batemon-1a566b112/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
