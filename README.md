@@ -1,5 +1,5 @@
 
-![](https://i.imgur.com/oxsTKL4.png)
+<>![](https://i.imgur.com/oxsTKL4.png)<>
 ### Hi there 👋, My name is Devon Batemon
 I am a Full Stack Developer based in California. My field of knowledge at the moment lie in Javascript, React, Express, Node.Js, and MongoDB. I hope to help bring creative projects to life and demonstrate my commitment to developing world-class websites for companies.
 
